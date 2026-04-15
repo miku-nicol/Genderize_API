@@ -22,7 +22,7 @@ This API accepts a name as a query parameter, sends it to the Genderize API, pro
 ##  Base URL
 
 ```
-https://your-app-url.com
+https://genderizeapi-production-9112.up.railway.app
 ```
 
 ---
@@ -191,7 +191,7 @@ Test the endpoint using:
 Example:
 
 ```
-http://localhost:3000/api/classify?name=miracle
+http://localhost:9000/api/classify?name=miracle
 ```
 
 
